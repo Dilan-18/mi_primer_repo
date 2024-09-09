@@ -1,2 +1,1 @@
-print("Hola")
-print("Buen dia")
+print("Si kenjiiiiiiii")
